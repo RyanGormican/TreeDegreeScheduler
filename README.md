@@ -1,1 +1,1 @@
-# BinaryTreeDegreeScheduler
+# TreeDegreeScheduler
